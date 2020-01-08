@@ -11,6 +11,9 @@ To install the Images for InventoryHUD:
   "html/img/items/taco.png",
   "html/img/items/mtndew.png",
   "html/img/items/cocacola.png",
+  "html/img/items/tequila.png",
+  "html/img/items/monsterenergy.png",
+  "html/img/items/speghetti.png",
 
 
 
