@@ -1,5 +1,5 @@
 # LiveRPregisteritems
-This script implements items for food and water
+This script implements items for food, water and drunk.
 
 ## Requirements
 - [esx_basicneeds](https://github.com/ESX-Org/esx_basicneeds)
